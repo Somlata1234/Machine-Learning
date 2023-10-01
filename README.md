@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning project
 * [In English](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README-eng.md "悬停显示")<br>
 
 原创文章每周最少两篇，**后续最新文章**会在[【公众号】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)首发，视频[【B站】](https://space.bilibili.com/331507846)首发，大家可以加我[【微信】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)进**交流群**，技术交流或提意见都可以，欢迎**Star**！
